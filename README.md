@@ -9,7 +9,7 @@ In questa tabella è possibile vedere il riassunto dello stato delle esercitazio
 | Esercitazione 1 |  Svolta :heavy_check_mark:  |  Svolta :heavy_check_mark:  |    Pubblicate :paperclip:   |
 | Esercitazione 2 |  Svolta :heavy_check_mark:  |  Svolta :heavy_check_mark:  |    Pubblicate :paperclip:   |
 | Esercitazione 3 |  Svolta :heavy_check_mark: |  In sospeso :hourglass: |  Pubblicate :paperclip: |
-| Esercitazione 4 |  23/11/2022 :date: |  25/11/2022 :date: |  29/11/2022 :date: |
+| Esercitazione 4 |  22/11/2022 :date: |  22/11/2022 :date: |  29/11/2022 :date: |
 | Esercitazione 5 |  30/11/2022 :date: |  02/12/2022 :date: |  06/12/2022 :date: |
 | Esercitazione 6 |  07/12/2022 :date: |  09/12/2022 :date: |  13/12/2022 :date: |
 | Esercitazione 7 |  14/12/2022 :date: |  16/12/2022 :date: |  16/12/2022 :date: |
