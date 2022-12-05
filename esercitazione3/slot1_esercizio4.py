@@ -6,8 +6,8 @@
 somma = 0
 
 n = eval(input("Digita un numero: "))   # Chiedo l'input all'utente
-k = 0   # Voglio iterare n volte, parto da zero e impongo nel ciclo k<n
-while k < n:
+k = 1   # Voglio iterare n volte, parto da zero e impongo nel ciclo k<n
+while k <= n:
     # Ad ogni iterazione k assumerà il valore del k-esimo numero naturale; quindi, se noi
     # sommiamo cumulativamente tutti i k da 0 ad n noi otteniamo la somma di tutti i primi
     # n numeri naturali.
