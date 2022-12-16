@@ -10,6 +10,7 @@ k = 0
 while k < n:
     numero_corrente = eval(input("Digita un numero: "))     # Prendo in input un numero
     somma = somma + abs(numero_corrente)                    # Sommo cumulativamente il valore assoluto
+    k = k + 1
 
 media_dei_valori_assoluti = somma / n       # Calcolo la media dei valori assoluti
 print(media_dei_valori_assoluti)            # Stampo la media

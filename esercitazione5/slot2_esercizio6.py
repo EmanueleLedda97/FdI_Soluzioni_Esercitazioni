@@ -12,4 +12,7 @@ def fattoriale(n):
     k = 2
     while k <= n:
         fatt = fatt * k
+        k = k + 1
     return fatt
+
+fattoriale(3)
